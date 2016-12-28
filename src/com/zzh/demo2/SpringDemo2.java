@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 public class SpringDemo2 {
 	
 	/**
-	 * ×¢Èë´úÀíÀà
+	 * æ³¨å…¥ä»£ç†ç±»
 	 */
 	@Resource(name="accountServiceProxy")
 	private AccountService accountService;
