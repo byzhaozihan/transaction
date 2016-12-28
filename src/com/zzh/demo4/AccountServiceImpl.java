@@ -4,7 +4,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 @Transactional
 public class AccountServiceImpl implements AccountService {
-	//×¢ÈëDAOÀà
+	//æ³¨å…¥DAOç±»
 	private AccountDao accountDao;
 	
 
