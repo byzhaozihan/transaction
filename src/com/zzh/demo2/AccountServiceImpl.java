@@ -2,7 +2,7 @@ package com.zzh.demo2;
 
 
 public class AccountServiceImpl implements AccountService {
-	//×¢ÈëDAOÀà
+	//æ³¨å…¥DAOç±»
 	private AccountDao accountDao;
 	
 
